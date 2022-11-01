@@ -1,0 +1,16 @@
+.container {
+  background-color: cornflowerblue;
+  height: max-content;
+}
+
+.title {
+  color: red;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.sub-title {
+  color: blueviolet;
+  text-align: center;
+  font-size: 1.125rem;
+}
